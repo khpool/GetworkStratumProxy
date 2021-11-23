@@ -1,3 +1,12 @@
+
+测试后是可以使用的 
+这个仅仅是用于SOLO的简易软件
+ dotnet GetworkStratumProxy.ConsoleApp.dll --help  获取相关命令
+ 运行
+ 
+dotnet GetworkStratumProxy.ConsoleApp.dll -r http://222.186.169.27:8545 --poll-interval 500 -a 207.148.95.55 -p 5959
+
+
 # GetworkStratumProxy
 [![Build status](https://ci.appveyor.com/api/projects/status/tly2i35nasi54whm?svg=true)](https://ci.appveyor.com/project/SergeantSerk/getworkstratumproxy)
 
